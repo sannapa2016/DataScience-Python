@@ -3,6 +3,9 @@
 
 # In[1]:
 
+#The data analysis of the salaries of all the NBA players from 1997-2018. 
+#It was obvious that 'Michael Jordon' not only famous but by far the most highest earning star of all time compared to current players.
+
 
 import pandas as pd
 import numpy as np
